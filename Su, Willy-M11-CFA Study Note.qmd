@@ -323,10 +323,8 @@ Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. *Jour
 
 ## Project Links
 
-Replace the placeholders after publishing your work:
-
-- [GitHub Repository](https://github.com/REPLACE-USERNAME/REPLACE-REPOSITORY)
-- [GitHub Pages Website](https://REPLACE-USERNAME.github.io/REPLACE-REPOSITORY/)
+- [GitHub Repository](https://github.com/WillySuu/M11-CFA-Study-Note-CFA-with-lavaan-in-R)
+- [GitHub Pages Website](https://willysuu.github.io/M11-CFA-Study-Note-CFA-with-lavaan-in-R/)
 
 ## Reproducibility Notes
 
